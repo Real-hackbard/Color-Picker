@@ -40,3 +40,14 @@ A "color space" is a useful conceptual tool for understanding the color capabili
 </br>
 
 ### Gradient Calculator:
+In color science, a [color gradient](https://en.wikipedia.org/wiki/Color) (also known as a color ramp or a color progression) specifies a range of position-dependent colors, usually used to fill a region.
+
+In assigning colors to a set of values, a gradient is a continuous colormap, a type of color scheme. In computer graphics, the term swatch. has come to mean a palette of active colors.
+
+</br>
+
+![Gradient Calculator](https://github.com/user-attachments/assets/42ddb308-3cad-4582-9744-99ffb64f3eee)
+
+</br>
+
+
