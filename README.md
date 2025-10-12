@@ -21,7 +21,7 @@ A color picker (also color chooser or color tool) is a [graphical user interface
 </br>
 
 ### Websafe Filter:
-A color space is a specific organization of colors. In combination with color profiling supported by various physical devices, it supports reproducible representations of color – whether such representation entails an analog or a digital representation. A color space may be arbitrary, i.e. with physically realized colors assigned to a set of physical color [swatches](https://en.wikipedia.org/wiki/Palette_(computing)) with corresponding assigned [color names](https://en.wikipedia.org/wiki/Color_term) (including discrete numbers in – for example – the Pantone collection), or structured with mathematical rigor (as with the NCS System, [Adobe RGB and sRGB](https://en.wikipedia.org/wiki/Adobe_RGB_color_space)). 
+A color space is a specific organization of colors. In combination with color profiling supported by various physical devices, it supports reproducible representations of color – whether such representation entails an analog or a digital representation. A color space may be arbitrary, i.e. with physically realized colors assigned to a set of physical color [swatches](https://en.wikipedia.org/wiki/Palette_(computing)) with corresponding assigned [color names](https://en.wikipedia.org/wiki/Color_term) (including discrete numbers in – for example – the Pantone collection), or structured with mathematical rigor (as with the NCS System, [Adobe RGB](https://en.wikipedia.org/wiki/Adobe_RGB_color_space) and [sRGB](https://en.wikipedia.org/wiki/SRGB)). 
 
 </br>
 
