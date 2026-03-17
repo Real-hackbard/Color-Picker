@@ -11,6 +11,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Color Mixer |
 | 1.0.x   | :white_check_mark: Color Ring |
 | 1.0.x   | :white_check_mark: RGB Channel Picker |
+| 1.0.x   | :white_check_mark: Web Color |
 
 ## Reporting a Vulnerability
 
