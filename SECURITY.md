@@ -14,6 +14,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Web Color |
 | 1.0.x   | :white_check_mark: Color Ribbon |
 | 1.0.x   | :white_check_mark: Maxwellb Triangle |
+| 1.0.x   | :white_check_mark: Thin Trackbar |
 
 ## Reporting a Vulnerability
 
