@@ -16,6 +16,7 @@ currently being supported with security updates.
 | 1.0.x   | :white_check_mark: Maxwellb Triangle |
 | 1.0.x   | :white_check_mark: Thin Trackbar |
 | 1.0.x   | :white_check_mark: Zoom Picker |
+| 1.0.x   | :white_check_mark: HSB to Color |
 
 ## Reporting a Vulnerability
 
